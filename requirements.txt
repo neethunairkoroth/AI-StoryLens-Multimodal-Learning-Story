@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+gTTS
+moviepy
+fpdf2
+requests
+Pillow
